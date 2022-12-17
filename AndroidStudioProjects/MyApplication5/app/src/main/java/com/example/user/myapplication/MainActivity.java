@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button b1;
     EditText e1, e2 ;
-    TextView t1 ;
+    TextView t1;
     TextToSpeech ts;
 
 
